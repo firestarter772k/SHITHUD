@@ -3048,6 +3048,15 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		STAYHOME48
+		{
+			"1"
+			{
+				"name"		"STAYHOMEREGULAR"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
 	}		
 	
     // These are the fonts i am using in my custom HUD
