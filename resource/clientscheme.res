@@ -3028,7 +3028,32 @@ Scheme
 				"antialias" "1"
 			}
 		}
-	}
+		
+
+		STAYHOME12
+		{
+			"1"
+			{
+				"name"		"STAYHOMEREGULAR"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		STAYHOME24
+		{
+			"1"
+			{
+				"name"		"STAYHOMEREGULAR"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+	}		
+	
+    // These are the fonts i am using in my custom HUD
+	
+	
+	
 
 	//
 	//////////////////// BORDERS //////////////////////////////
@@ -5838,6 +5863,11 @@ Scheme
 			{
 				"range" "0x0000 0x007E"
 			}
+		}
+		"8"
+		{
+			"font"resource/fonts/STAY HOME.otf"
+			"name"STAYHOMEREGULAR"
 		}
 	}
 }
